@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Zayn Jameel Abbas
+<h1 style="color: #4a4a4a; font-family: 'Press Start 2P', cursive;">👋 Hi there! I'm Zayn Abbas</h1>
 
-I'm a passionate software engineer with expertise in full-stack web development. I love building innovative solutions and creating engaging user experiences.
+I'm a software developer and NLP researcher with a passion for building innovative solutions. Welcome to my GitHub profile!
 
-## 🌐 My Website
+<h2 style="color: #6c63ff; font-family: 'Press Start 2P', cursive;">🌐 My Website</h2>
 
-Check out my personal website at [zaynabbas.com](https://zaynabbas.com) to learn more about me, my skills, and my projects.
+Check out my personal website at <a href="https://zaynabbas.com" style="color: #6c63ff;">zaynabbas.com</a> to learn more about me, my skills, and my projects.
 
-## 🚀 Featured Projects
+<h2 style="color: #6c63ff; font-family: 'Press Start 2P', cursive;">🚀 Featured Projects</h2>
 
 - [Project 1](link-to-project-1) - Brief description of the project.
 - [Project 2](link-to-project-2) - Brief description of the project.
@@ -20,11 +20,13 @@ Check out my personal website at [zaynabbas.com](https://zaynabbas.com) to learn
 - Cloud: AWS, Firebase
 - Version Control: Git, GitHub
 
-## 🌱 I'm currently learning
+## 🔬 Research Interests
 
-- GraphQL
-- TypeScript
-- Docker
+- Natural Language Processing
+- Sentiment Analysis
+- Text Classification
+- Named Entity Recognition
+- Machine Translation
 
 ## 📫 Get in Touch
 
