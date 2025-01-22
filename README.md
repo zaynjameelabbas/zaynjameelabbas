@@ -29,7 +29,7 @@ Check out my personal website at [zaynabbas.com](https://zaynabbas.com) to learn
 ## 📫 Get in Touch
 
 - Email: [zayn.jameel.abbas@gmail.com](mailto:zayn.jameel.abbas@gmail.com)
-- LinkedIn: [Zayn Jameel Abbas](https://www.linkedin.com/in/zayn-jameel-abbas/)
+- LinkedIn: [Zayn Jameel Abbas](https://www.linkedin.com/in/zayn-j-abbas/)
 - GitHub: [zaynjameelabbas](https://github.com/zaynjameelabbas)
 
 ## 📊 GitHub Stats
