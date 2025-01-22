@@ -34,7 +34,7 @@ Check out my personal website at [zaynabbas.com](https://zaynabbas.com) to learn
 
 ## 📊 GitHub Stats
 
-![Zayn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaynabbas&show_icons=true&theme=radical)
+![Zayn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaynjameelabbas&show_icons=true&theme=radical)
 
 Feel free to explore my repositories and contributions. If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
 
