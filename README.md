@@ -8,13 +8,11 @@ Check out my personal website at <a href="https://zaynabbas.com" style="color: #
 
 <h2 style="color: #6c63ff; font-family: 'Press Start 2P', cursive;">🚀 Featured Projects</h2>
 
-- [Project 1](link-to-project-1) - Brief description of the project.
-- [Project 2](link-to-project-2) - Brief description of the project.
-- [Project 3](link-to-project-3) - Brief description of the project.
+Coming Soon!
 
 ## 💻 Skills & Technologies
 
-- Front-end: HTML, CSS, JavaScript, React
+- Front-end: HTML, CSS, JavaScript, React, Python
 - Back-end: Node.js, Express, MongoDB
 - Mobile: React Native
 - Cloud: AWS, Firebase
@@ -24,9 +22,7 @@ Check out my personal website at <a href="https://zaynabbas.com" style="color: #
 
 - Natural Language Processing
 - Sentiment Analysis
-- Text Classification
-- Named Entity Recognition
-- Machine Translation
+- Collaborative Workspaces
 
 ## 📫 Get in Touch
 
