@@ -1,10 +1,10 @@
 <h1 style="color: #4a4a4a; font-family: 'Press Start 2P', cursive;">👋 Hi there! I'm Zayn Abbas</h1>
 
-I'm a software developer and NLP researcher with a passion for building innovative solutions. Welcome to my GitHub profile!
+I'm a passionate UI/UX designer and software developer! 
 
 <h2 style="color: #6c63ff; font-family: 'Press Start 2P', cursive;">🌐 My Website</h2>
 
-Check out my personal website at <a href="https://zaynjabbas.webflow.io/" style="color: #6c63ff;">zaynabbas.com</a> to learn more about me, my skills, and my projects.
+Check out my personal website at <a href="https://zaynjabbas.webflow.io/" style="color: #6c63ff;">zaynjabbas.webflow.io</a> to learn more about me, my skills, and my projects.
 
 <h2 style="color: #6c63ff; font-family: 'Press Start 2P', cursive;">🚀 Featured Projects</h2>
 
